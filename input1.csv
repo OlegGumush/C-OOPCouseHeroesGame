@@ -1,0 +1,14 @@
+world,,,,,,
+type,length,height,,,,
+matrix,15,15,,,,
+items,,,,,,
+type,quality,x,y,,,
+mana,10,3,3,,,
+health,13,2,9,,,
+actors,,,,,,
+type,power,x_start,y_start,x_end,y_end,gender
+archer,3.11,1,1,13,14,1
+enemy,2,8,8,8,8,
+weapons,,,,,,
+type,power,x,y,,,
+sword,5,5,5,,,
